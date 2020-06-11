@@ -16,9 +16,20 @@ p{
     float: left;
 }
 
+.galeria-video{
+    background: #ffffff;
+    width: 337px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border: solid black;
+    float: left;
+}
+
+
+
+
 .clear{
     clear: both;
 }
 
-img{
-}
